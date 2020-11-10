@@ -81,7 +81,7 @@
     "karma-remap-coverage": "0.1.4",
     "karma-sourcemap-loader": "0.3.7",
     "karma-webpack": "2.0.6",
-    "node-sass": "4.6.1",
+    "node-sass": "4.13.1",
     "postcss": "6.0.14",
     "postcss-strip-inline-comments": "0.1.5",
     "pump": "1.0.2",
